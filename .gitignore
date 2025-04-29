@@ -1,0 +1,29 @@
+# Ignore CMake build folders
+cmake-build-*/
+
+# Ignore CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ignore JetBrains IDE (CLion) project files
+.idea/
+*.iml
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore compiled executables and binary outputs
+*.exe
+*.out
+*.app
+
+# Ignore temporary and backup files
+*.log
+*.tmp
+*.swp
+
+# Ignore FetchContent build dependencies (optional but good)
+_build/
+_deps/
