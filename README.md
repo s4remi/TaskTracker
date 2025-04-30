@@ -1,3 +1,7 @@
+
+![Build and Test](https://github.com/s4remi/TaskTracker/actions/workflows/cross-platform-ci.yml/badge.svg)
+
+
 # Task Tracker (C++)
 
 A lightweight, procedural-style task tracking application written in C++.  
