@@ -32,4 +32,5 @@ int main() {
     std::vector<Task> completedTasks = filterCompleted(tasks);
     printTasks(completedTasks);
     return 0;
+    
 }
